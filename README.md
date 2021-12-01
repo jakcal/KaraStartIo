@@ -4,6 +4,14 @@ Flutter plugin for StartIo SDK.
 
 Currently, this plugin only support Android platform. 
 ## How to use the plugin 
+* Installing the plugin: 
+```yaml
+  kara_start_io_plugin:
+    path: ./kara_start_io_plugin
+    
+```
+
+
 
 * Updating AndroidManifest.xml file
 
